@@ -1,0 +1,4 @@
+center the grid
+navbar 
+there is no way to break forEach loop.
+differeence between == & ===

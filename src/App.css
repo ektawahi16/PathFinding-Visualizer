@@ -1,0 +1,26 @@
+body{
+    background-image: url('forest.png');
+    opacity: 0.95;
+    background-size: cover;
+}
+#wrapper {
+    margin-left:0%;
+    margin-right:0%;
+    width:100%;
+    
+}
+
+.grid {
+    /*margin: 2%; */
+    margin-top: 6%;
+    margin-left: 4.5%;
+    height: auto;
+    max-width: 100%;
+} 
+
+/* customize each button later */
+/* todo */
+.btn{
+    position:center;
+
+}

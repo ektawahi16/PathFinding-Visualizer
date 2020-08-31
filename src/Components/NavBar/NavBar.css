@@ -1,0 +1,18 @@
+.reduce-size{
+    font-size: 17px ! important;
+}
+
+.which-algo{
+    position:absolute;
+    font-weight: bold;
+    border: 1px solid white;
+    border-radius: 2%;
+    background-color: lightblue;
+    text-align: center;
+    color:black;
+    width:60%;
+    height:5%;
+    margin-top:0%;
+    margin-left:20%;
+    z-index: 1;
+}

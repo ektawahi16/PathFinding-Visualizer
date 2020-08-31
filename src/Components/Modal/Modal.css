@@ -1,0 +1,70 @@
+#modal-id{
+    text-align: center;
+}
+.main{
+    opacity:1;
+    pointer-events: visible;
+    transition: opacity 0.4s ease-in-out;
+    position: absolute;
+    left:25%;
+    right:0;
+    top:18%;
+    bottom:25%;
+    width:50%;
+    height:70%;
+    background-color: white;
+    z-index: 1;
+    position:absolute;
+    border: 2px solid orange;
+    border-radius: 2%;
+   
+}
+.modal-hide{
+    opacity:0;
+    pointer-events: none;
+}
+
+.modal-text{
+    justify-content: center;
+}
+.front-line{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.pagecounts{
+    position: absolute;
+    bottom: 3%;
+    left: 50%;
+}
+.lastpage{
+    position: absolute;
+    top: 35%;
+    left: 22%;
+}
+.reduce-font-size{
+    font-size: 15px;
+}
+.fin{
+    position: absolute;
+    bottom: 2%;
+    right: 2%;
+
+}
+.next{
+    position: absolute;
+    bottom: 2%;
+    right: 2%;
+}
+
+.prev{
+    position: absolute;
+    bottom: 2%;
+    right: 12%;
+}
+
+.skip{
+    position: absolute;
+    bottom:2%;
+    left:2%;
+}
